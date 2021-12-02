@@ -14,3 +14,9 @@ lm.Cu- copper
 lm.Ni- nickel
 lm.Pb- lead
 lm.Zn- zinc
+   
+   
+   
+Inputs to all models include X..impervious, Land.Use, and Koppen.Geiger.Zone
+All predictions are reported in log10 of mg/L for nutrients and sediments.
+All prediction are reported in log10 of μg/L for metals.   
