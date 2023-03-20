@@ -34,5 +34,5 @@ Thus, the predicted concentration for this scenario is 10^(-0.437959) mg/L with 
 Input options:
 X..impervious = [0,100]
 Land.Use = 'road', 'residential', 'industrial', 'commercial', 'single family residential', 'multi family residential', or 'city center' 
-Koppen.Geiger.Zone = 'Af', 'BSh', 'BSk', 'BWh', 'Cfa', 'Cfb', 'Csa', 'Csb', 'Cwa', 'Cwb', 'Dfa', 'Dfb', or 'Dwa' (refer to graphs in publication for which KGZs do not have data in them, model will not run for those few zones)
+Koppen.Geiger.Zone = 'Af', 'BSh', 'BSk', 'BWh', 'Cfa', 'Cfb', 'Csa', 'Csb', 'Cwa', 'Cwb', 'Dfa', 'Dfb', or 'Dwa' (refer to graphs in publication [or Table 3] for which KGZs do not have data in them, model will not run for those few zones)
 
