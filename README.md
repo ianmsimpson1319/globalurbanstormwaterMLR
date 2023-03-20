@@ -29,3 +29,10 @@ Model output:
         fit       lwr       upr
   -0.437959 -1.057273 0.1813546
 Thus, the predicted concentration for this scenario is 10^(-0.437959) mg/L with a confidence interval of (10^(-1.057273) , 10^(0.1813546)).
+
+
+Input options:
+X..impervious = [0,100]
+Land.Use = 'road', 'residential', 'industrial', 'commercial', 'single family residential', 'multi family residential', or 'city center' 
+Koppen.Geiger.Zone = 'Af', 'BSh', 'BSk', 'BWh', 'Cfa', 'Cfb', 'Csa', 'Csb', 'Cwa', 'Cwb', 'Dfa', 'Dfb', or 'Dwa'
+
